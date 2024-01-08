@@ -2,6 +2,12 @@
   "users": [
       {"id": 1, "name": "Leanne Graham"}
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    }
+  ],
   "photos": []
 }
