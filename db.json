@@ -37,5 +37,10 @@
       "id": 11
     }
   ],
-  "photos": []
+  "photos": [
+    {"albumId":10,"url":"https://loremflickr.com/150/150/abstract?lock=4219993577226240"},
+    {"albumId":11,"url":"https://loremflickr.com/150/150/abstract?lock=1779830892789760"},
+    {"albumId":12,"url":"https://loremflickr.com/150/150/abstract?lock=532421764186112"},
+    {"albumId":10,"url":"https://loremflickr.com/150/150/abstract?lock=7830097797054464"}
+  ]
 }
