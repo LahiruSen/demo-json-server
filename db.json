@@ -1,12 +1,40 @@
 {
   "users": [
-      {"id": 1, "name": "Leanne Graham"}
+      {"id": 1, "name": "Leanne Graham"},
+      {
+        "name": "Wilbur Johnston",
+        "id": "da85ijGc1b_PInVA0YglK"
+      },
+      {
+        "name": "Alton McDermott",
+        "id": "o_-5sSYyCSmuov12cm5g0"
+      }
   ],
   "albums": [
     {
       "id": 10,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Refined Plastic Sausages",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Concrete Sausages",
+      "id": 12
+    },
+    {
+      "userId": "dwg3C17xDNg38cUD_pw0y",
+      "title": "Modern Steel Hat",
+      "id": 11
+    },
+    {
+      "userId": "dwg3C17xDNg38cUD_pw0y",
+      "title": "Ergonomic Soft Table",
+      "id": 11
     }
   ],
   "photos": []
